@@ -276,7 +276,7 @@ order_id,customer_id,customer_name,product,category,quantity,unit_price,discount
 100222,C0316,Aman Das,Running Shoes,Sports,10,6260,30,Debit Card,Jaipur,Rajasthan,2025-11-23,Delivered
 100334,C0336,Siddharth Pandey,Cricket Bat,Sports,9,3350,25,Cash on Delivery,Kolkata,West Bengal,2026-07-02,Delivered
 100390,C0251,Akash Kulkarni,USB-C Hub,Electronics,6,3950,25,Credit Card,Jaipur,Rajasthan,2025-12-25,Returned
-100637,C0020,Aarav Patel,Novel,Books,4,610,20,Net Banking,Chennai,Tamil Nadu,,Delivered
+100637,C0020,Aarav Patel,Novel,Books,4,610,20,Net Banking,Chennai,Tamil Nadu,2026-05-13,Delivered
 100698,C0224,Keerthi Naidu,Laptop,Electronics,9,60320,25,Net Banking,Delhi,Delhi,2025-11-18,Delivered
 100724,C0097,Aditya Chopra,Moisturizer,Beauty,3,1140,15,UPI,Hyderabad,Telangana,2026-06-10,Processing
 100817,C0284,Nikhil Yadav,Electric Kettle,Home Appliances,1,1980,15,Net Banking,Mumbai,Maharashtra,2026-06-04,Delivered
@@ -396,7 +396,7 @@ order_id,customer_id,customer_name,product,category,quantity,unit_price,discount
 100426,C0241,Aman Joshi,Formal Shirt,Clothing,7,2960,15,Credit Card,Jaipur,Rajasthan,2026-06-22,Delivered
 100474,C0008,Aarav Iyer,Programming Book,Books,10,910,15,Net Banking,Bengaluru,Karnataka,2026-05-25,Delivered
 100504,C0076,Neha Reddy,Mixer Grinder,Home Appliances,5,2840,25,Cash on Delivery,Lucknow,Uttar Pradesh,2025-08-25,Processing
-100969,C0277,Swathi Patel,Sports Shoes,Clothing,4,6000,20,UPI,Hyderabad,Telangana,,Delivered
+100969,C0277,Swathi Patel,Sports Shoes,Clothing,4,6000,20,UPI,Hyderabad,Telangana,2026-09-15,Delivered
 100541,C0240,Meera Yadav,Badminton Racket,Sports,5,1770,30,Cash on Delivery,Delhi,Delhi,2026-07-05,Delivered
 100606,C0336,Siddharth Pandey,Mechanical Keyboard,Electronics,6,2070,40,Net Banking,Bengaluru,Karnataka,2025-08-17,Delivered
 100306,C0003,Riya Patel,Face Wash,Beauty,5,350,30,Cash on Delivery,Vijayawada,Andhra Pradesh,2026-04-24,Cancelled
@@ -955,7 +955,7 @@ order_id,customer_id,customer_name,product,category,quantity,unit_price,discount
 100779,C0340,Tanvi Rao,Vacuum Cleaner,Home Appliances,6,13700,40,Net Banking,Lucknow,Uttar Pradesh,2025-07-01,Shipped
 100241,C0343,Pooja Jain,Study Table,Furniture,10,6570,35,Net Banking,Hyderabad,Telangana,2026-06-01,Returned
 100290,C0010,Shreya Agarwal,Vacuum Cleaner,Home Appliances,5,12740,35,Net Banking,Lucknow,Uttar Pradesh,2026-07-26,Delivered
-100358,C0132,Vikram Menon,Bedside Table,Furniture,7,4460,15,Net Banking,Lucknow,Uttar Pradesh,,Delivered
+100358,C0132,Vikram Menon,Bedside Table,Furniture,7,4460,15,Net Banking,Lucknow,Uttar Pradesh,2025-07-14,Delivered
 100446,C0138,Pranav Joshi,Kurta,Clothing,1,750,20,UPI,Jaipur,Rajasthan,2025-01-15,Shipped
 100496,C0020,Aarav Patel,Basmati Rice 5kg,Grocery,1,520,15,Net Banking,Pune,Maharashtra,2025-10-07,Delivered
 100645,C0135,Anjali Kapoor,Sunscreen,Beauty,6,420,25,Debit Card,Vijayawada,Andhra Pradesh,2026-02-02,Returned
